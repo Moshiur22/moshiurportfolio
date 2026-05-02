@@ -1,6 +1,5 @@
-# 🚀 Welcome to Z.ai Code Scaffold
+# 🚀 Welcome to Moshiur Rahman's Portfolio
 
-A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
 
 ## ✨ Technology Stack
 
@@ -70,11 +69,6 @@ bun run build
 bun start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to see your application running.
-
-## 🤖 Powered by Z.ai
-
-This scaffold is optimized for use with [Z.ai](https://chat.z.ai) - your AI assistant for:
 
 - **💻 Code Generation** - Generate components, pages, and features instantly
 - **🎨 UI Development** - Create beautiful interfaces with AI assistance  
